@@ -154,3 +154,7 @@ This project is licensed under the AGPL License - see the [LICENSE](LICENSE) fil
 **Built with ❤️ by BHT Labs / Organized AI**
 
 *Transforming development through intelligent agent coordination*
+
+---
+
+Maintained by Jordaaan Hill ([LinkedIn](https://www.linkedin.com/in/jordaaanhill)).
